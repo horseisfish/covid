@@ -93,7 +93,7 @@ void setup() {
 	transit1stop = loadImage("data/transit1stop.jpg");
 	transit2stop = loadImage("data/transit2stop.jpg");
 	transit3stop = loadImage("data/transit3stop.jpg");
-	bigVirus = loadImage("img/virus/_corona.png");
+	bigVirus = loadImage("img/virus/corona.png");
 
 
 	font = createFont("font/font.ttf", 56);
